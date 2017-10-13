@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>maven.com.example.husongzhen.testmaven</groupId>
-  <artifactId>libs</artifactId>
+  <artifactId>libs2</artifactId>
   <versioning>
     <release>0.0.1</release>
     <versions>
