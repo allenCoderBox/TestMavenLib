@@ -29,5 +29,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
 
-//    compile 'com.example.husongzhen.testmaven:libs:0.0.1'
+    compile 'maven.com.example.husongzhen.testmaven:libs:0.0.1'
 }
