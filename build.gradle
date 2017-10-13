@@ -15,6 +15,8 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+//        maven { url 'https://github.com/FHttp/fhttp_lib/raw/master' }
+        maven { url 'https://github.com/allenCoderBox/TestMavenLib/raw/master' }
     }
 }
 
