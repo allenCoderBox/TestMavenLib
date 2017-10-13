@@ -30,5 +30,5 @@ dependencies {
 
 
     compile 'maven.com.example.husongzhen.testmaven:libs:0.0.1'
-    compile 'maven.com.example.husongzhen.testmaven:libs2:0.0.1'
+    compile 'maven.com.example.husongzhen.testmaven:libs2:0.0.2'
 }

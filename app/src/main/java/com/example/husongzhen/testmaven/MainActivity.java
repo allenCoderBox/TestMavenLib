@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         User user = new User();
         user.setName("usobgzhes");
+
     }
 }
